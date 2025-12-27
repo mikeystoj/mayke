@@ -6,7 +6,7 @@ import { useState } from "react";
 const apps = [
   { name: "The Distinguished Gentleman's Ride", desc: "Global motorcycle charity in over 1000 cities worldwide", href: "https://www.gentlemansride.com" },
   { name: "The Distinguished Gentleman's Drive", desc: "Classic car charity event ", href: "https://www.gentlemansdrive.com" },
-  { name: "Jam Content", desc: "Manage and schedule your own content with ease", href: "https://www.jamcontent.com  " },
+  { name: "Jam Content", desc: "Manage and schedule your own content with ease", href: "https://www.jamcontent.com" },
   { name: "Skrabble Keeper", desc: "Score tracking for Scrabble game players", href: "https://www.skrabblekeeper.com" },
 ];
 
