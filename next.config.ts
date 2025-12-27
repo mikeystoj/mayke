@@ -1,10 +1,5 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  // Disable Turbopack for production builds (can cause hangs on Vercel)
-  experimental: {
-    turbo: undefined,
-  },
-};
+const nextConfig: NextConfig = {};
 
 export default nextConfig;
